@@ -1,5 +1,5 @@
 - 👋 Hi, I’m minseok kim
-- 👀 I’m interested in AWS, Spring, React
+- 👀 I’m interested in Network, Linux, Spring
 
 <!---
 kmus1232/kmus1232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
